@@ -1,1 +1,1 @@
-[Demo] (https://mkumarithapa.github.io/GoogleClone/)
+[Demo](https://mkumarithapa.github.io/GoogleClone/)
