@@ -9,7 +9,7 @@ function App() {
     <AppContext>
       <BrowserRouter>
         <Routes>
-          <Route path="/" exact element={<Home />} />
+          <Route path="/GoogleClone" exact element={<Home />} />
           <Route path="/:query/:startIndex" element={<SearchResult />} />
         </Routes>
       </BrowserRouter>
